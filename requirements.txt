@@ -1,0 +1,4 @@
+gTTS
+sounddevice
+scipy
+selenium

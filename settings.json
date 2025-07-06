@@ -1,0 +1,6 @@
+{
+  "name": "Lyle",
+  "income_goal": "R4.4M before November",
+  "voice_type": "gtts",
+  "currency_targets": ["USD", "EUR", "GBP", "JPY", "ZAR"]
+}
